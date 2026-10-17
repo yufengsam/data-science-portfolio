@@ -2,7 +2,7 @@
 
 The source of my data science portfolio, published with GitHub Pages:
 
-**https://yufengsam.github.io/data-science-portfolio/**
+**https://yufengsam.github.io/data-science-portfolio**
 
 ## Contents
 
